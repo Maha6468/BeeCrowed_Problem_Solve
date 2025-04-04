@@ -11,7 +11,7 @@ public class BC1065 {
                 count++;
             }
         }
-        System.out.println(count+" valores pares");
+        System.out.println(count+" valore pares");
 
 
 
